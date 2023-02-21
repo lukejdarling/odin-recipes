@@ -1,16 +1,55 @@
 * {
-    background-color: papayawhip;
+    background-color: rgb(242, 232, 223);
+}
+
+.base{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(242, 133, 133);
 }
 
 .title{
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
+    color: rgb(242, 178, 99);
+}
+
+.intro,
+.list-title,
+.list-items{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(134, 166, 157);
+}
+
+.list-title{
+    font-size: 20px;
+}
+
+.list-items{
+    font-size: 15px;
 }
 
 img{
     height: 300px;
     width: auto;
 }
+
+img.beans-picture,
+.lasagna-picture,
+.huel-picture{
+    height: 300px;
+    width: auto;
+}
+
 .list{
     font-size: 30px;
+}
+
+.beans-title{
+    font-size: 40px;
+}
+
+.lasagna-title{
+    font-size: 40px;
 }
