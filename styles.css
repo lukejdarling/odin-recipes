@@ -1,0 +1,16 @@
+* {
+    background-color: papayawhip;
+}
+
+.title{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+.list{
+    font-size: 30px;
+}
